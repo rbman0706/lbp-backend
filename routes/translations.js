@@ -2,8 +2,10 @@ const router = require('express').Router();
 const ctrl = require('../controllers');
 
 // routes
-router.get('/', ctrl.games.index);
-router.get('/:id', ctrl.games.show);
+
+router.post('/', ctrl.translations.create);
+router.get('/history', ctrl.translations.index);
+router.get('/:id', ctrl.translations.show);
 
 
 // exports

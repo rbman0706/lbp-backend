@@ -15,4 +15,5 @@ mongoose.connect(connectionString, configOptions)
 
 module.exports = {
     Translation: require('./translation'),
+    User: require('./User'),
 };

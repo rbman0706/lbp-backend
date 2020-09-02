@@ -3,13 +3,11 @@ const Schema = mongoose.Schema;
 
 const TranslationSchema = new Schema({
 
-    user_id: { type: String, },
+    user_id: { type: String, default: 'Annon'},
 
     oringalInput: { type: String, required: true, },
 
-    translations:  { type: Array, required: true, },
-
-    engReTranslations:  { type: Array, required: true, },
+    translations: { type: Array, required: true, },
 
 });
 
@@ -17,3 +15,6 @@ const TranslationSchema = new Schema({
 const Translation = mongoose.model('Translation', TranslationSchema);
 
 module.exports = Translation;
+
+
+//req user modele in user_id

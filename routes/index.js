@@ -1,3 +1,4 @@
 module.exports = {
-    translation: require('./translations'),
+    translations: require('./translations'),
+    auth: require('./auth'),
 };

@@ -1,0 +1,25 @@
+{
+    "translations": [
+
+        {
+            "oringalInput":"And behold, I shall be a blight upon the land, and everything I touch shall wither and die.",
+
+            "translations":[
+                {"langName":"Belarusian","translation":"І вось, я буду забіваць зямлю, і ўсё, што я дакрануся, засыхае і памрэ."},
+                {"langName":"French","translation":"Et voici, je tuerai la terre, et tout ce que je toucherai se dessèchera et mourra."},
+                {"langName":"Irish","translation":"Agus, féuch, maróidh mé an talamh, agus imeoidh gach rud a rachaidh mé i dteagmháil leis agus gheobhaidh sé bás."},
+                {"langName":"Japanese","translation":"そして、見よ、私は地球を殺し、私が触れるすべてのものは滅び、そして死ぬ。"},
+                {"langName":"Russian","translation":"И вот, Я убью землю, все, чего я коснусь, погибнет и умрет."},
+                {"langName":"Vietnamese","translation":"Và bây giờ, tôi sẽ giết trái đất, tất cả những gì tôi chạm vào sẽ hư mất và chết."}],
+                
+            "engReTranslations":[
+                "And behold, I will kill the earth, and everything I touch will dry up and die.",
+                "And, behold, I will kill the earth, and everything that I touch shall wither away and die.",
+                "And, behold, I will slay the earth, and all that I touch shall perish, and shall die.",
+                "And behold, I will kill the earth, everything I touch will perish, and die.",
+                "And now, I will kill the earth, everything that I touch will perish and die.",
+                "And now, I will kill the earth, everything I touch will perish and die."]
+        }
+    ]
+
+}
